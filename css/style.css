@@ -320,10 +320,14 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 90%;
   float: left;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
   .info {
     margin-bottom: 3em;
   }
+  
+  #informacion{
+	display:flex;
+	flex-direction: column;}
 }
 .info li {
   width: 100%;
@@ -1045,7 +1049,7 @@ input[type="text"] {
   #map {
     height: 200px;
   }
-}
+
 
 .gototop {
   position: fixed;
