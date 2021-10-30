@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #44A7F3;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #44A7F3;
   outline: none;
   text-decoration: none;
 }
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background-color: #87BEE8;
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #87BEE8;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -406,7 +406,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #87BEE8;
 }
 
 .fh5co-heading {
@@ -975,7 +975,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.1);
+  background: #87BEE8;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
